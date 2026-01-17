@@ -41,3 +41,6 @@ Para rodar o projeto localmente, siga os passos abaixo:
    java -cp bin br.com.biblioteca.main.Main
    ```
 
+## ✒️ Autor
+
+Desenvolvido como parte de um desafio técnico para demonstrar habilidades em Java Sênior.
